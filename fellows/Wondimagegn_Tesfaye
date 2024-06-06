@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <!-- NEED REPLACE <link rel="shortcut icon" href="favicon.png"> -->
+                            
+        <title>Wondimagegn Mesfin Tesfaye - STAARS Fellows - Christopher B. Barrett</title>
+                            
+        <!-- Bootstrap core CSS -->
+        <link href="../../css/bootstrap.css" rel="stylesheet">
+                                
+        <!-- Custom styles -->
+        <link href="../../css/barrett-style.css" rel="stylesheet">
+        <script type="text/javascript" src="../../js/navbar.js"></script>
+                                    
+    </head>
+    
+    
+    <body style="">
+        
+        <script type="text/javascript">writenav();</script>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-md-8 col-lg-8">
+                <h1>Wondimagegn Mesfin Tesfaye</h1>
+                <table class="table table-hover">
+                    <tr>
+                        <td>Education</td>
+                        <td>M.Sc., Agricultural Economics, Haramaya University, Ethiopia (2010)</td>
+                    </tr>
+                    <tr>
+                        <td>STAARS Research</td>
+                        <td>Climate-Smart Innovations, Poverty Dynamics, and Adaptive Capacity in Sub-Saharan Africa</td>
+                    </tr>
+                    <tr>
+                        <td>CV</td>
+                        <td><a href="files/Wondimagegn Tesfaye_CV.pdf">PDF File</a></td>
+                    </tr>
+                    <tr>
+                        <td>Contact</td>
+                        <td><a href="mailto:tesfaye@merit.unu.edu">tesfaye@merit.unu.edu</a></td>
+                    </tr>
+                </table>
+                <p>Wondimagegn Tesfaye is a PhD Fellow at the United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology (UNU-MERIT), in the Netherlands. He received his MSc degree in Agricultural Economics from Haramaya University, Ethiopia. Before joining UNU-MERIT, he has served as a Lecturer at Haramaya University. He has also worked as a part-time researcher for a consulting firm. His current research project focuses on the effect of climate-smart technological innovations on adaptive capacity and poverty dynamics in Sub-Saharan Africa.  His research interest revolves around development economics with a particular focus on areas including agricultural innovations, risk management, climate change adaptation, mitigation and sustainable intensification, food and nutrition security, poverty dynamics and resilience, agricultural households’ decision making and social protection. Wondimagegn has a strong interest in quantitative methods particularly applied Microeconometrics, impact evaluation and mathematical programming.</p>
+                <br>
+                <p><a class="btn btn-default" href="../../staars/fellows">Return to Fellows »</a></p>
+            </div>
+            <div class="col-sm-4 col-md-4 col-lg-4">
+                <h2></h2>
+                <img src="img/Wondi photo.jpeg" class="img-responsive img-rounded" alt="Wondimagegn Mesfin Tesfaye">
+            </div>
+            
+        </div>
+
+        
+
+      <hr>
+
+      <footer>
+        <p>© Copyright by Chris Barrett 2013. All rights reserved.</p>
+      </footer>
+
+    </div><!--/.container-->
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../../js/jquery.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/offcanvas.js"></script>
+  
+
+</body></html>

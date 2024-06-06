@@ -1,0 +1,19 @@
+.schedule-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .schedule-list li {
+    text-decoration: underline!important;
+    margin-bottom: 10px; /* uniform space between items */
+  }
+  
+  .schedule-list li span {
+    gap: 20px; /* space between event and date */
+  }
+  
+  .milestone:before {
+    content: '✱ ';
+    color: red;
+  }
+  
